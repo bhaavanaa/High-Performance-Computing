@@ -1,0 +1,27 @@
+Q1 - Hello world timings
+Threads=1	0.000086
+Threads=2	0.000406
+Threads=4	0.006343
+Threads=6	0.000917
+Threads=8	0.001472	
+Threads=10	0.001298
+Threads=12	0.001394
+Threads=14	0.001645	
+Threads=16	0.001829
+Threads=20	0.002170
+Threads=24	0.002463
+
+
+
+Q2 - Vector addition timings
+Threads=1	0.000106
+Threads=2	0.000313
+Threads=4	0.000652
+Threads=6	0.000753		
+Threads=8	0.000959		
+Threads=10	0.001140	
+Threads=12	0.001442	
+Threads=14	0.001512				
+Threads=16	0.001795	
+Threads=20	0.001964		
+Threads=24	0.002181	
